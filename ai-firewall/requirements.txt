@@ -1,0 +1,14 @@
+datasets 
+transformers
+scikit-learn
+pandas
+numpy
+huggingface_hub
+python-dotenv
+torch
+fastapi
+uvicorn
+openai
+accelerate
+pydantic
+httpx
