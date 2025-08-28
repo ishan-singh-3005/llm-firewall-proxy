@@ -3,11 +3,10 @@
 
 This repository demonstrates a full-stack, production-grade AI safety and moderation system, combining advanced machine learning, robust backend engineering, and modern frontend development. It showcases a wide range of technical and product skills, from deep learning and data engineering to scalable API design and user-centric web interfaces.
 
-<summary><b>🎬 Watch the Demo</b></summary>
+## 🎬 Watch the Demo
 
-<p align="center">
-	<video src="https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing" controls width="600"></video>
-</p>
+<video src="https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing" controls width="600"></video>
+
 
 ## Repository Overview
 
