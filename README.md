@@ -3,16 +3,15 @@
 
 This repository demonstrates a full-stack, production-grade AI safety and moderation system, combining advanced machine learning, robust backend engineering, and modern frontend development. It showcases a wide range of technical and product skills, from deep learning and data engineering to scalable API design and user-centric web interfaces.
 
-## 🎬 Watch the Demo
+## 🎬 [![Demo Video](demo-thumbnail.png)](https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing)
 
-<video src="https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing" controls width="600"></video>
 
 
 ## Repository Overview
 
 - **ai-firewall/**: Python backend for harmful prompt detection, model training, and API serving (FastAPI, PyTorch, HuggingFace, OpenAI integration).
 - **frontend/**: Modern React/TypeScript web app (Vite, shadcn-ui, Tailwind CSS) for interactive demo and user experience.
-- **demo.mp4**: Video demonstration of the system in action. Here is the link incase the video above does not work: https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing
+- **demo.mp4**: Video demonstration of the system in action.
 
 ## Skills & Technologies Showcased
 
