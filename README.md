@@ -1,5 +1,5 @@
 
-# Synapse AI Guard & AI Firewall
+# AI Firewall
 
 This repository demonstrates a full-stack, production-grade AI safety and moderation system, combining advanced machine learning, robust backend engineering, and modern frontend development. It showcases a wide range of technical and product skills, from deep learning and data engineering to scalable API design and user-centric web interfaces.
 
