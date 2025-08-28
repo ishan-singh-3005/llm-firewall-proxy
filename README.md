@@ -15,7 +15,7 @@ This repository demonstrates a full-stack, production-grade AI safety and modera
 ## Repository Overview
 
 - **ai-firewall/**: Python backend for harmful prompt detection, model training, and API serving (FastAPI, PyTorch, HuggingFace, OpenAI integration).
-- **synapse-ai-guard/**: Modern React/TypeScript web app (Vite, shadcn-ui, Tailwind CSS) for interactive demo and user experience.
+- **frontend/**: Modern React/TypeScript web app (Vite, shadcn-ui, Tailwind CSS) for interactive demo and user experience.
 - **demo.mp4**: Video demonstration of the system in action.
 
 ## Skills & Technologies Showcased
@@ -46,7 +46,7 @@ This repository demonstrates a full-stack, production-grade AI safety and modera
 
 ## How to Run
 
-See `ai-firewall/README.md` and `synapse-ai-guard/README.md` for detailed setup and usage instructions for each part.
+See `ai-firewall/README.md` and `frontend/README.md` for detailed setup and usage instructions for each part.
 
 ---
 **Author:** Ishan Singh  ==

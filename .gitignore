@@ -7,14 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Frontend (synapse-ai-guard)
-synapse-ai-guard/node_modules/
-synapse-ai-guard/dist/
-synapse-ai-guard/dist-ssr/
-synapse-ai-guard/.env
-synapse-ai-guard/.next/
-synapse-ai-guard/.turbo/
-synapse-ai-guard/.vercel/
+# Frontend (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+frontend/.next/
+frontend/.turbo/
+frontend/.vercel/
 
 # Backend (ai-firewall)
 ai-firewall/__pycache__/
