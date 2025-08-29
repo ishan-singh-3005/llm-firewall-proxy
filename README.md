@@ -4,8 +4,38 @@
 This repository demonstrates a full-stack, production-grade AI safety and moderation system, combining advanced machine learning, robust backend engineering, and modern frontend development. It showcases a wide range of technical and product skills, from deep learning and data engineering to scalable API design and user-centric web interfaces.
 
 ## 🎬 Watch the Demo [![Demo Video](demo-thumbnail.png)](https://drive.google.com/file/d/1R4HDir3p2SQntvmyqpIAHTqspE7vft1N/view?usp=sharing)
+**Securing Chatbots Against Prompt Injection (Demo Scenario):**
+- Protect AI-powered chatbots on ecommerce or enterprise websites from prompt injection attacks that attempt to access unauthorized or sensitive customer data.
+- As shown in the demo video, the AI Firewall can distinguish between secure and non-secure chat interfaces: only the secure chat window blocks malicious requests, preventing data leaks even when the underlying LLM has access to private databases.
+- Enables safe integration of LLMs with business-critical systems by enforcing strict access controls at the prompt level.
 
 
+## Business Use Cases
+
+
+The AI Firewall is designed to address real-world business challenges related to AI safety, compliance, and responsible deployment. Here are some more business use cases:
+
+- **Content Moderation for User-Generated Platforms:**
+	- Automatically detect and block harmful, toxic, or policy-violating prompts in chatbots, forums, and social media platforms.
+	- Protect brand reputation and ensure community guidelines are enforced at scale.
+
+- **Enterprise Data Protection:**
+	- Prevent sensitive or confidential information from being leaked through AI-powered assistants or customer support bots.
+	- Enforce compliance with data privacy regulations (GDPR, HIPAA, etc.) by filtering prompts and responses.
+
+- **AI Safety for Regulated Industries:**
+	- Deploy in healthcare, finance, or legal sectors to ensure AI systems do not generate or act on unsafe, biased, or non-compliant content.
+	- Provide audit trails and explainability for moderation decisions.
+
+- **Responsible AI Deployment:**
+	- Integrate with LLM APIs (OpenAI, HuggingFace, etc.) to add a safety layer before user input reaches the model.
+	- Reduce risk of AI misuse and support responsible innovation.
+
+- **Customizable Moderation for SaaS Providers:**
+	- Offer moderation-as-a-service for SaaS platforms, enabling clients to tailor safety rules to their business needs.
+	- Support multi-tenant deployments and role-based access control.
+
+These use cases demonstrate the AI Firewall's value in protecting users, businesses, and society from the risks associated with generative AI, while enabling safe and scalable adoption of AI technologies.
 
 ## Repository Overview
 
